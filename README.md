@@ -1,6 +1,8 @@
-# angel
+# Give U Angel
 
-A new Flutter application.
+2019.01~2019.10
+
+Online donation service platform
 
 ## Getting Started
 
